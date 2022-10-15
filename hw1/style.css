@@ -1,0 +1,12 @@
+li {background: cornflowerblue;
+    color: silver;
+    font-size: 20px;
+    width: 150px;}
+p {background: cornflowerblue;
+    color: silver;
+    font-size: 20px;
+    width: 350px;
+    border-radius: 20px;}
+h1 {color: rgb(205, 55,44);}
+a {color: black;}
+.target{color: black;}
