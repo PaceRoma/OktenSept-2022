@@ -1,0 +1,45 @@
+.target{
+    width: 600px;
+    height: 100%;
+}
+.top{
+    background: #144c84;
+    width: 560px;
+    height: 180px;
+    margin: 15px 20px 20px 20px;
+
+}
+.mid{
+    display: flex;
+    width: 600px;
+    justify-content: space-evenly;
+}
+.box{
+    background: dodgerblue;
+    width: 172px;
+    height: 200px;
+    box-sizing: border-box;
+}
+.down{
+    background: #144c84;
+    width: 560px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*////////*/
+.nextStep {
+    display: flex;
+    width: 750px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.cards{
+    width: 200px;
+    height: 250px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
