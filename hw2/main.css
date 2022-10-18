@@ -32,14 +32,33 @@
 /*////////*/
 .nextStep {
     display: flex;
-    width: 750px;
+    width: 900px;
     justify-content: space-evenly;
     margin-top: 20px;
 }
 .cards{
-    width: 200px;
-    height: 250px;
+    width: 250px;
+    height: 300px;
     border: 1px solid black;
     box-sizing: border-box;
 }
+.desk{
+    color: #57647a;
+    padding: 20px;
+    text-align: center;
+}
+.largeDesk{
+    box-sizing: border-box;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+.lear{
+    text-align: center;
+    display: flex;
+    border: 1px solid black;
+    width: 105px;
+    height: 45px;
+    margin-left: 65px;
 
+}
